@@ -23,7 +23,8 @@ CSV file
 * Maximum number of tweets - **3200** (*due to the TwitterAPI limitation*)
 
 
-##Example of usage:
+## Example of usage:
+.jar file directory: out/artifacts/TwitterApiParser_jar/TwitterApiParser.jar
 ```
 java -classpath TwitterApiParser.jar com.janczura.Combiner unisyscorp 600
 ```
